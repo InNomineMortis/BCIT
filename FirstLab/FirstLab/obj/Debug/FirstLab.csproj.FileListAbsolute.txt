@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2012\Projects\FirstLab\FirstLab\bin\Debug\FirstLab.exe.config
+c:\users\student\documents\visual studio 2012\Projects\FirstLab\FirstLab\bin\Debug\FirstLab.exe
+c:\users\student\documents\visual studio 2012\Projects\FirstLab\FirstLab\bin\Debug\FirstLab.pdb
+c:\users\student\documents\visual studio 2012\Projects\FirstLab\FirstLab\obj\Debug\FirstLab.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\FirstLab\FirstLab\obj\Debug\FirstLab.exe
+c:\users\student\documents\visual studio 2012\Projects\FirstLab\FirstLab\obj\Debug\FirstLab.pdb
