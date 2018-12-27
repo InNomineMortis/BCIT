@@ -1,0 +1,7 @@
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\bin\Debug\Lab6.1.exe.config
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\bin\Debug\Lab6.1.exe
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\bin\Debug\Lab6.1.pdb
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csprojAssemblyReference.cache
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csproj.CoreCompileInputs.cache
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\obj\Debug\Lab6.1.exe
+E:\Лабораторные работы\БКИТ\Lab6.1\Lab6.1\obj\Debug\Lab6.1.pdb

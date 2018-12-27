@@ -1,0 +1,14 @@
+C:\Users\dip\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\dip\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\dip\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\dip\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\dip\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\dip\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\dip\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\Лабораторные работы\БКИТ\Lab3\Lab3\obj\Debug\Lab3.pdb

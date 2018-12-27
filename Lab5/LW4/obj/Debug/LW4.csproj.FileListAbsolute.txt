@@ -1,0 +1,40 @@
+F:\Программирование2\LW4\LW4\bin\Debug\LW4.exe.config
+F:\Программирование2\LW4\LW4\bin\Debug\LW4.exe
+F:\Программирование2\LW4\LW4\bin\Debug\LW4.pdb
+F:\Программирование2\LW4\LW4\obj\Debug\LW4.csprojResolveAssemblyReference.cache
+F:\Программирование2\LW4\LW4\obj\Debug\LW4.Form1.resources
+F:\Программирование2\LW4\LW4\obj\Debug\LW4.Properties.Resources.resources
+F:\Программирование2\LW4\LW4\obj\Debug\LW4.csproj.GenerateResource.Cache
+F:\Программирование2\LW4\LW4\obj\Debug\LW4.exe
+F:\Программирование2\LW4\LW4\obj\Debug\LW4.pdb
+E:\Лабы\LW4\LW4\bin\Debug\LW4.exe.config
+E:\Лабы\LW4\LW4\obj\Debug\LW4.exe
+E:\Лабы\LW4\LW4\obj\Debug\LW4.pdb
+E:\Лабы\LW4\LW4\bin\Debug\LW4.exe
+E:\Лабы\LW4\LW4\bin\Debug\LW4.pdb
+E:\Лабы\LW4\LW4\obj\Debug\LW4.csprojResolveAssemblyReference.cache
+E:\Лабы\LW4\LW4\obj\Debug\LW4.Form1.resources
+E:\Лабы\LW4\LW4\obj\Debug\LW4.Properties.Resources.resources
+E:\Лабы\LW4\LW4\obj\Debug\LW4.csproj.GenerateResource.Cache
+H:\Лабы\LW4\LW4\bin\Debug\LW4.exe.config
+H:\Лабы\LW4\LW4\obj\Debug\LW4.exe
+H:\Лабы\LW4\LW4\obj\Debug\LW4.pdb
+E:\LW4\LW4\bin\Debug\LW4.exe.config
+E:\LW4\LW4\obj\Debug\LW4.exe
+E:\LW4\LW4\obj\Debug\LW4.pdb
+E:\LW4\LW4\bin\Debug\LW4.exe
+E:\LW4\LW4\bin\Debug\LW4.pdb
+E:\LW4\LW4\obj\Debug\LW4.csprojResolveAssemblyReference.cache
+E:\LW4\LW4\obj\Debug\LW4.Form1.resources
+E:\LW4\LW4\obj\Debug\LW4.Properties.Resources.resources
+E:\LW4\LW4\obj\Debug\LW4.csproj.GenerateResource.Cache
+E:\Лабораторные работы\БКИТ\Lab4\LW4\bin\Debug\LW4.exe.config
+E:\Лабораторные работы\БКИТ\Lab4\LW4\bin\Debug\LW4.exe
+E:\Лабораторные работы\БКИТ\Lab4\LW4\bin\Debug\LW4.pdb
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.csprojAssemblyReference.cache
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.Form1.resources
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.Properties.Resources.resources
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.csproj.GenerateResource.cache
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.csproj.CoreCompileInputs.cache
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.exe
+E:\Лабораторные работы\БКИТ\Lab4\LW4\obj\Debug\LW4.pdb
